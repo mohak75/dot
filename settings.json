@@ -1,0 +1,35 @@
+{
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    // "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontLigatures": true,
+    "explorer.compactFolders": false,
+    "files.insertFinalNewline": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.tabs.enabled": false,
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+        "titleBarStyle": "hidden",
+        // "opacity": 0.9
+
+    },
+    "apc.font.family": "JetBrainsMono Nerd Font",
+    "animations.Install-Method": "Apc Customize UI++",
+    "animations.CursorAnimation": false,
+    "apc.imports": [
+        "file://${userHome}/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    ],
+    "catppuccin.accentColor": "blue",
+    
+
+
+
+    
+    
+
+}
